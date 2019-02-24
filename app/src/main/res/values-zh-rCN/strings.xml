@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">打开新目标</string>
+    <string name="title_text">题目</string>
+    <string name="message_text">信息正文</string>
+    <string name="only_send_title_checkbox">只发送题目</string>
+    <string name="send_email_button">用电子邮件发送</string>
+    <string name="launch_activity_button">打开页面</string>
+    <string name="launch_camera_button">打开相机</string>
+</resources>
